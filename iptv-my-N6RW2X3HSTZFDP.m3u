@@ -6,6 +6,19 @@ http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/2086/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="6028" tvg-logo="http://epg.it999.ru/img2/6028.png" tvg-rec="0",Новый Мир
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/16022/index.m3u8
 
+#EXTINF:0 group-title="Новостные" tvg-id="743" tvg-logo="http://epg.it999.ru/img2/743.png" tvg-rec="3",РБК FHD
+http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/19367/index.m3u8
+#EXTINF:0 group-title="Новостные" tvg-id="2266" tvg-logo="http://epg.it999.ru/img2/2266.png" tvg-rec="7",Euronews Россия
+http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/828/index.m3u8
+#EXTINF:0 group-title="Новостные" tvg-id="2399" tvg-logo="http://epg.it999.ru/img2/2399.png" tvg-rec="0",Дождь
+http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/20083/index.m3u8
+#EXTINF:0 group-title="Новостные" tvg-id="2267" tvg-logo="http://epg.it999.ru/img2/2267.png" tvg-rec="7",CGTN
+http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/830/index.m3u8
+#EXTINF:0 group-title="Новостные" tvg-id="921" tvg-logo="http://epg.it999.ru/img2/921.png" tvg-rec="7",NHK World TV
+http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/729/index.m3u8
+#EXTINF:0 group-title="Новостные" tvg-id="6683" tvg-logo="http://epg.it999.ru/img2/6683.png" tvg-rec="0",FOX NEWS CHANNEL FHD
+http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/19147/index.m3u8
+
 #EXTINF:0 group-title="Кино" tvg-id="566" tvg-logo="http://epg.it999.ru/img2/566.png" tvg-rec="7",Кинопремьера HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/224/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="542" tvg-logo="http://epg.it999.ru/img2/542.png" tvg-rec="0",Кинохит HD
@@ -94,8 +107,6 @@ http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/912/index.m3u8
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/5053/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="401" tvg-logo="http://epg.it999.ru/img2/401.png" tvg-rec="3",Русский роман HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/2076/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="401" tvg-logo="http://epg.it999.ru/img2/401.png" tvg-rec="7",Русский роман
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/906/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="1570" tvg-logo="http://epg.it999.ru/img2/1570.png" tvg-rec="7",Русский детектив
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/907/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="994" tvg-logo="http://epg.it999.ru/img2/994.png" tvg-rec="7",Русский бестселлер
@@ -204,6 +215,7 @@ http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/14006/index.m3u8
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/20209/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="7903" tvg-logo="http://epg.it999.ru/img2/7903.png" tvg-rec="0",KION Хит HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/20211/index.m3u8
+
 #EXTINF:0 group-title="Кинозалы" tvg-id="4682" tvg-logo="http://epg.it999.ru/img2/4682.png" tvg-rec="7",CineMan
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/11004/index.m3u8
 #EXTINF:0 group-title="Кинозалы" tvg-id="4683" tvg-logo="http://epg.it999.ru/img2/4683.png" tvg-rec="7",CineMan Top
@@ -266,20 +278,14 @@ http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/11033/index.m3u8
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/11034/index.m3u8
 #EXTINF:0 group-title="Кинозалы" tvg-id="4752" tvg-logo="http://epg.it999.ru/img2/4752.png" tvg-rec="7",BCU Comedy HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/11031/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="5515" tvg-logo="http://epg.it999.ru/img2/5515.png" tvg-rec="0",BCU Comedy OLD
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/15026/index.m3u8
 #EXTINF:0 group-title="Кинозалы" tvg-id="4761" tvg-logo="http://epg.it999.ru/img2/4761.png" tvg-rec="7",BCU Romantic HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/11040/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="4761" tvg-logo="http://epg.it999.ru/img2/4761.png" tvg-rec="0",BCU Romantic OLD
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/18052/index.m3u8
 #EXTINF:0 group-title="Кинозалы" tvg-id="4758" tvg-logo="http://epg.it999.ru/img2/4758.png" tvg-rec="7",BCU Kinorating HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/11037/index.m3u8
 #EXTINF:0 group-title="Кинозалы" tvg-id="4769" tvg-logo="http://epg.it999.ru/img2/4769.png" tvg-rec="7",BCU Criminal HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/11048/index.m3u8
 #EXTINF:0 group-title="Кинозалы" tvg-id="4759" tvg-logo="http://epg.it999.ru/img2/4759.png" tvg-rec="7",BCU Marvel HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/11038/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="5514" tvg-logo="http://epg.it999.ru/img2/5514.png" tvg-rec="0",BCU Marvel OLD
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/15025/index.m3u8
 #EXTINF:0 group-title="Кинозалы" tvg-id="4765" tvg-logo="http://epg.it999.ru/img2/4765.png" tvg-rec="7",BCU Stars HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/11044/index.m3u8
 #EXTINF:0 group-title="Кинозалы" tvg-id="4764" tvg-logo="http://epg.it999.ru/img2/4764.png" tvg-rec="7",BCU Media HD
@@ -288,16 +294,10 @@ http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/11043/index.m3u8
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/15024/index.m3u8
 #EXTINF:0 group-title="Кинозалы" tvg-id="6131" tvg-logo="http://epg.it999.ru/img2/6131.png" tvg-rec="0",BCU Reality HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/16082/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="6067" tvg-logo="http://epg.it999.ru/img2/6067.png" tvg-rec="0",BCU Reality OLD
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/16083/index.m3u8
 #EXTINF:0 group-title="Кинозалы" tvg-id="6175" tvg-logo="http://epg.it999.ru/img2/6175.png" tvg-rec="0",BCU Survival HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/17019/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="6164" tvg-logo="http://epg.it999.ru/img2/6164.png" tvg-rec="0",BCU Survival OLD
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/17020/index.m3u8
 #EXTINF:0 group-title="Кинозалы" tvg-id="6176" tvg-logo="http://epg.it999.ru/img2/6176.png" tvg-rec="0",BCU Cosmo HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/17021/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="6165" tvg-logo="http://epg.it999.ru/img2/6165.png" tvg-rec="0",BCU Cosmo OLD
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/17022/index.m3u8
 #EXTINF:0 group-title="Кинозалы" tvg-id="6198" tvg-logo="http://epg.it999.ru/img2/6198.png" tvg-rec="0",BCU TruMotion HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/17054/index.m3u8
 #EXTINF:0 group-title="Кинозалы" tvg-id="4766" tvg-logo="http://epg.it999.ru/img2/4766.png" tvg-rec="7",BCU Ultra 4K
@@ -1231,8 +1231,6 @@ http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/232/index.m3u8
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/2416/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="102" tvg-logo="http://epg.it999.ru/img2/102.png" tvg-rec="0",National Geographic HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/14001/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="102" tvg-logo="http://epg.it999.ru/img2/102.png" tvg-rec="0",National Geographic HD 50
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/10023/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="223" tvg-logo="http://epg.it999.ru/img2/223.png" tvg-rec="3",Nat Geo Wild FHD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/2415/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="2801" tvg-logo="http://epg.it999.ru/img2/2801.png" tvg-rec="3",Love Nature 4K
@@ -1245,10 +1243,8 @@ http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/908/index.m3u8
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/968/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="521" tvg-logo="http://epg.it999.ru/img2/521.png" tvg-rec="3",Viju Explore HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6381/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-rec="0",Viasat Nature HD
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img2/765.png" tvg-rec="0",Viju Nature HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/15225/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="765" tvg-logo="http://epg.it999.ru/img2/765.png" tvg-rec="7",Viju Nature
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/161/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="277" tvg-logo="http://epg.it999.ru/img2/277.png" tvg-rec="7",Viju History HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/203/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="2012" tvg-logo="http://epg.it999.ru/img2/2012.png" tvg-rec="3",Viju+ Planet HD
@@ -1259,8 +1255,6 @@ http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/162/index.m3u8
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/231/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="7642" tvg-logo="http://epg.it999.ru/img2/7642.png" tvg-rec="7",History HD CEE
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/837/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2356" tvg-logo="http://epg.it999.ru/img2/2356.png" tvg-rec="3",H2 HD orig
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/9013/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="2356" tvg-logo="http://epg.it999.ru/img2/2356.png" tvg-rec="7",H2 HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/2033/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-rec="3",HGTV HD US
@@ -1443,8 +1437,6 @@ http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/704/index.m3u8
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/1043/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="7641" tvg-logo="http://epg.it999.ru/img2/7641.png" tvg-rec="0",English Class HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/15190/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-rec="3",English Club TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/9299/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="2155" tvg-logo="http://epg.it999.ru/img2/2155.png" tvg-rec="3",English Club TV HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/993/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-rec="3",Теледом HD
@@ -1663,10 +1655,6 @@ http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/2129/index.m3u8
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/2442/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="5382" tvg-logo="http://epg.it999.ru/img2/5382.png" tvg-rec="0",Жара kids HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/14147/index.m3u8
-#EXTINF:0 group-title="Музыка" tvg-id="2837" tvg-logo="http://epg.it999.ru/img2/2837.png" tvg-rec="3",AIVA TV HD orig
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/9085/index.m3u8
-#EXTINF:0 group-title="Музыка" tvg-rec="3",AIVA TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/2156/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="715" tvg-logo="http://epg.it999.ru/img2/715.png" tvg-rec="7",Музыка Первого
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/155/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="680" tvg-logo="http://epg.it999.ru/img2/680.png" tvg-rec="0",ТНТ Music FHD
@@ -1689,14 +1677,10 @@ http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6335/index.m3u8
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/15017/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="2094" tvg-logo="http://epg.it999.ru/img2/2094.png" tvg-rec="0",EU Music HD UA
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/15276/index.m3u8
-#EXTINF:0 group-title="Музыка" tvg-id="2094" tvg-logo="http://epg.it999.ru/img2/2094.png" tvg-rec="0",EU MUSIC UA
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/15277/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="2379" tvg-logo="http://epg.it999.ru/img2/2379.png" tvg-rec="3",4ever Music HD UA
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/970/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-rec="3",Sky Select UK
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/2474/index.m3u8
-#EXTINF:0 group-title="Музыка" tvg-id="2837" tvg-logo="http://epg.it999.ru/img2/2837.png" tvg-rec="0",AIVA TV HD
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/18033/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="2665" tvg-logo="http://epg.it999.ru/img2/2665.png" tvg-rec="3",POWER HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/2297/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="2856" tvg-logo="http://epg.it999.ru/img2/2856.png" tvg-rec="3",UTV HD RO
@@ -1713,16 +1697,10 @@ http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/2470/index.m3u8
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/7223/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="2278" tvg-logo="http://epg.it999.ru/img2/2278.png" tvg-rec="7",Шансон ТВ
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/859/index.m3u8
-#EXTINF:0 group-title="Музыка" tvg-id="2278" tvg-logo="http://epg.it999.ru/img2/2278.png" tvg-rec="3",Шансон ТВ orig
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/9173/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="2408" tvg-logo="http://epg.it999.ru/img2/2408.png" tvg-rec="7",Ля-минор ТВ
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/2043/index.m3u8
-#EXTINF:0 group-title="Музыка" tvg-id="2408" tvg-logo="http://epg.it999.ru/img2/2408.png" tvg-rec="3",Ля-минор ТВ orig
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/9174/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="2475" tvg-logo="http://epg.it999.ru/img2/2475.png" tvg-rec="3",Курай HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/2144/index.m3u8
-#EXTINF:0 group-title="Музыка" tvg-id="2410" tvg-logo="http://epg.it999.ru/img2/2410.png" tvg-rec="3",Курай TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/2061/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="2353" tvg-logo="http://epg.it999.ru/img2/2353.png" tvg-rec="3",Vostok TV
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/1054/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="2415" tvg-logo="http://epg.it999.ru/img2/2415.png" tvg-rec="3",Жар Птица
@@ -2023,8 +2001,6 @@ http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/19436/index.m3u8
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/20000/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="7556" tvg-logo="http://epg.it999.ru/img2/7556.png" tvg-rec="0",Radio Metal TV
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/14010/index.m3u8
-#EXTINF:0 group-title="Музыка" tvg-id="7555" tvg-logo="http://epg.it999.ru/img2/7555.png" tvg-rec="0",Classic Music
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/14008/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="7555" tvg-logo="http://epg.it999.ru/img2/7555.png" tvg-rec="0",Classic Music HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/14009/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="3358" tvg-logo="http://epg.it999.ru/img2/3358.png" tvg-rec="3",SONG TV RUSSIA 
@@ -2038,19 +2014,6 @@ http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/20174/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="7887" tvg-logo="http://epg.it999.ru/img2/7887.png" tvg-rec="0",Box Rurap HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/20171/index.m3u8
 
-#EXTINF:0 group-title="Новостные" tvg-id="743" tvg-logo="http://epg.it999.ru/img2/743.png" tvg-rec="3",РБК FHD
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/19367/index.m3u8
-#EXTINF:0 group-title="Новостные" tvg-id="2266" tvg-logo="http://epg.it999.ru/img2/2266.png" tvg-rec="7",Euronews Россия
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/828/index.m3u8
-#EXTINF:0 group-title="Новостные" tvg-id="2399" tvg-logo="http://epg.it999.ru/img2/2399.png" tvg-rec="0",Дождь
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/20083/index.m3u8
-#EXTINF:0 group-title="Новостные" tvg-id="2267" tvg-logo="http://epg.it999.ru/img2/2267.png" tvg-rec="7",CGTN
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/830/index.m3u8
-#EXTINF:0 group-title="Новостные" tvg-id="921" tvg-logo="http://epg.it999.ru/img2/921.png" tvg-rec="7",NHK World TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/729/index.m3u8
-#EXTINF:0 group-title="Новостные" tvg-id="6683" tvg-logo="http://epg.it999.ru/img2/6683.png" tvg-rec="0",FOX NEWS CHANNEL FHD
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/19147/index.m3u8
-
 #EXTINF:0 group-title="Беларусь" tvg-id="4627" tvg-logo="http://epg.it999.ru/img2/4627.png" tvg-rec="0",Белсат HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/10036/index.m3u8
 #EXTINF:0 group-title="Беларусь" tvg-id="4626" tvg-logo="http://epg.it999.ru/img2/4626.png" tvg-rec="0",Яснае ТВ HD
@@ -2061,6 +2024,9 @@ http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/2186/index.m3u8
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/2185/index.m3u8
 #EXTINF:0 group-title="Беларусь" tvg-id="6775" tvg-logo="http://epg.it999.ru/img2/6775.png" tvg-rec="0",БелМуз ТВ
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/19373/index.m3u8
+
+#EXTINF:0 group-title="Религиозные" tvg-rec="3",Life TV
+http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/971/index.m3u8
 
 #EXTINF:0 group-title="США | USA" tvg-id="2988" tvg-logo="http://epg.it999.ru/img2/2988.png" tvg-rec="3",CINEMAXX MORE MAXX US
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6152/index.m3u8
@@ -2492,15 +2458,12 @@ http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6120/index.m3u8
 #EXTINF:0 group-title="Австралия | Australia" tvg-id="3064" tvg-logo="http://epg.it999.ru/img2/3064.png" tvg-rec="0",Fox Sports News AU
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6121/index.m3u8
 
-
 #EXTINF:0 group-title="Взрослые" tvg-id="3151" tvg-logo="http://epg.it999.ru/img2/3151.png" tvg-rec="0",Brazzers HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6182/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="2021" tvg-logo="http://epg.it999.ru/img2/2021.png" tvg-rec="3",Brazzers TV Europe
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/910/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3150" tvg-logo="http://epg.it999.ru/img2/3150.png" tvg-rec="0",Brazzers eXXtra
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6181/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="2322" tvg-logo="http://epg.it999.ru/img2/2322.png" tvg-rec="0",Hustler HD orig
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/9065/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="2322" tvg-logo="http://epg.it999.ru/img2/2322.png" tvg-rec="0",Hustler HD Europe
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/244/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="2249" tvg-logo="http://epg.it999.ru/img2/2249.png" tvg-rec="0",Blue Hustler
@@ -2573,30 +2536,16 @@ http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6172/index.m3u8
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6173/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3143" tvg-logo="http://epg.it999.ru/img2/3143.png" tvg-rec="0",Bang!
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6174/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="3144" tvg-logo="http://epg.it999.ru/img2/3144.png" tvg-rec="0",Big Ass Adult TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6175/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="3145" tvg-logo="http://epg.it999.ru/img2/3145.png" tvg-rec="0",Big Dick Red TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6176/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="3146" tvg-logo="http://epg.it999.ru/img2/3146.png" tvg-rec="0",Big Tits Adult TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6177/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3147" tvg-logo="http://epg.it999.ru/img2/3147.png" tvg-rec="0",Blacked HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6178/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3148" tvg-logo="http://epg.it999.ru/img2/3148.png" tvg-rec="0",Blonde Adult TV
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6179/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="3149" tvg-logo="http://epg.it999.ru/img2/3149.png" tvg-rec="0",Blowjob Red TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6180/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="3152" tvg-logo="http://epg.it999.ru/img2/3152.png" tvg-rec="0",Brunette Adult TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6183/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3154" tvg-logo="http://epg.it999.ru/img2/3154.png" tvg-rec="0",Cherry Pimps
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6185/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3155" tvg-logo="http://epg.it999.ru/img2/3155.png" tvg-rec="0",Club 17
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6186/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="2015" tvg-logo="http://epg.it999.ru/img2/2015.png" tvg-rec="0",Русская Ночь orig
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/9344/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="3156" tvg-logo="http://epg.it999.ru/img2/3156.png" tvg-rec="0",Compilation Adult TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6187/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="3157" tvg-logo="http://epg.it999.ru/img2/3157.png" tvg-rec="0",Cuckold Red TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6188/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3158" tvg-logo="http://epg.it999.ru/img2/3158.png" tvg-rec="0",Cum Louder
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6189/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3159" tvg-logo="http://epg.it999.ru/img2/3159.png" tvg-rec="0",Cum4k
@@ -2639,20 +2588,12 @@ http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6210/index.m3u8
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6211/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3181" tvg-logo="http://epg.it999.ru/img2/3181.png" tvg-rec="0",FemJoy
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6212/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="3182" tvg-logo="http://epg.it999.ru/img2/3182.png" tvg-rec="0",Fetish Red TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6213/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="3183" tvg-logo="http://epg.it999.ru/img2/3183.png" tvg-rec="0",Gangbang Adult TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6214/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="3184" tvg-logo="http://epg.it999.ru/img2/3184.png" tvg-rec="0",Gay Adult TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6215/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3185" tvg-logo="http://epg.it999.ru/img2/3185.png" tvg-rec="0",Got MYLF
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6216/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3186" tvg-logo="http://epg.it999.ru/img2/3186.png" tvg-rec="0",Hands on Hardcore
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6217/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3187" tvg-logo="http://epg.it999.ru/img2/3187.png" tvg-rec="0",Hard X
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6218/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="3188" tvg-logo="http://epg.it999.ru/img2/3188.png" tvg-rec="0",Hardcore Red TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6219/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3189" tvg-logo="http://epg.it999.ru/img2/3189.png" tvg-rec="0",Hitzefrei HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6220/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3190" tvg-logo="http://epg.it999.ru/img2/3190.png" tvg-rec="0",Holed
@@ -2661,12 +2602,8 @@ http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6221/index.m3u8
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6222/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3192" tvg-logo="http://epg.it999.ru/img2/3192.png" tvg-rec="0",Hot Guys Fuck
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6223/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="3193" tvg-logo="http://epg.it999.ru/img2/3193.png" tvg-rec="0",Interracial Red TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6224/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3194" tvg-logo="http://epg.it999.ru/img2/3194.png" tvg-rec="0",Japan HDV
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6225/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="3195" tvg-logo="http://epg.it999.ru/img2/3195.png" tvg-rec="0",Latina Red TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6226/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3196" tvg-logo="http://epg.it999.ru/img2/3196.png" tvg-rec="0",Lesbea
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6227/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3197" tvg-logo="http://epg.it999.ru/img2/3197.png" tvg-rec="0",Lesbian Red TV
@@ -2675,14 +2612,10 @@ http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6228/index.m3u8
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6229/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3199" tvg-logo="http://epg.it999.ru/img2/3199.png" tvg-rec="0",Little Asians HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6230/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="3200" tvg-logo="http://epg.it999.ru/img2/3200.png" tvg-rec="0",Live Cams Adult TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6231/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3201" tvg-logo="http://epg.it999.ru/img2/3201.png" tvg-rec="0",Lust Cinema
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6232/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3202" tvg-logo="http://epg.it999.ru/img2/3202.png" tvg-rec="0",MetArt HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6233/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="3203" tvg-logo="http://epg.it999.ru/img2/3203.png" tvg-rec="0",MILF Red TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6234/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3204" tvg-logo="http://epg.it999.ru/img2/3204.png" tvg-rec="0",Monsters of Cock
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6235/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3205" tvg-logo="http://epg.it999.ru/img2/3205.png" tvg-rec="0",MYLF TV HD
@@ -2697,10 +2630,6 @@ http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6240/index.m3u8
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6241/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3211" tvg-logo="http://epg.it999.ru/img2/3211.png" tvg-rec="0",Playboy Plus
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6242/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="3212" tvg-logo="http://epg.it999.ru/img2/3212.png" tvg-rec="0",Pornstar Red TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6243/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="3213" tvg-logo="http://epg.it999.ru/img2/3213.png" tvg-rec="0",POV Adult TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6244/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3214" tvg-logo="http://epg.it999.ru/img2/3214.png" tvg-rec="0",Private HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6245/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3215" tvg-logo="http://epg.it999.ru/img2/3215.png" tvg-rec="0",Public Agent
@@ -2711,10 +2640,6 @@ http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6247/index.m3u8
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6248/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3218" tvg-logo="http://epg.it999.ru/img2/3218.png" tvg-rec="0",RK TV
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6249/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="3219" tvg-logo="http://epg.it999.ru/img2/3219.png" tvg-rec="0",Rough Adult TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6250/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="3220" tvg-logo="http://epg.it999.ru/img2/3220.png" tvg-rec="0",Russian Adult TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6251/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3221" tvg-logo="http://epg.it999.ru/img2/3221.png" tvg-rec="0",Sex With Muslims
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6252/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3222" tvg-logo="http://epg.it999.ru/img2/3222.png" tvg-rec="0",SexArt
@@ -2723,10 +2648,6 @@ http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6253/index.m3u8
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6254/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3224" tvg-logo="http://epg.it999.ru/img2/3224.png" tvg-rec="0",SINematica
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6255/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="3225" tvg-logo="http://epg.it999.ru/img2/3225.png" tvg-rec="0",Teen Red TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6256/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="3226" tvg-logo="http://epg.it999.ru/img2/3226.png" tvg-rec="0",Threesome Red TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6257/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3227" tvg-logo="http://epg.it999.ru/img2/3227.png" tvg-rec="0",Tiny4K
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/6258/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3228" tvg-logo="http://epg.it999.ru/img2/3228.png" tvg-rec="0",Trans Angels
@@ -2829,9 +2750,9 @@ http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/11052/index.m3u8
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/11051/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="4800" tvg-logo="http://epg.it999.ru/img2/4800.png" tvg-rec="0",VF Cartoon 18+
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/11117/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="4912" tvg-logo="http://epg.it999.ru/img2/4912.png" tvg-rec="0",Alba 1 HD
+#EXTINF:0 group-title="Взрослые" tvg-id="4912" tvg-logo="http://epg.it999.ru/img2/4912.png" tvg-rec="0",Alba XXX1 HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/12105/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="4913" tvg-logo="http://epg.it999.ru/img2/4913.png" tvg-rec="0",Alba 1
+#EXTINF:0 group-title="Взрослые" tvg-id="4913" tvg-logo="http://epg.it999.ru/img2/4913.png" tvg-rec="0",Alba XXXHD1 HD
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/12106/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="7721" tvg-logo="http://epg.it999.ru/img2/7721.png" tvg-rec="0",Exotic 4k
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/12107/index.m3u8
@@ -2953,24 +2874,10 @@ http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/12168/index.m3u8
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/12169/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="4977" tvg-logo="http://epg.it999.ru/img2/4977.png" tvg-rec="0",BAG U
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/12170/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="4978" tvg-logo="http://epg.it999.ru/img2/4978.png" tvg-rec="0",XXXINTERRACIAL TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/12171/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="3195" tvg-logo="http://epg.it999.ru/img2/3195.png" tvg-rec="0",LATINA TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/12172/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="3203" tvg-logo="http://epg.it999.ru/img2/3203.png" tvg-rec="0",MILF TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/12173/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3212" tvg-logo="http://epg.it999.ru/img2/3212.png" tvg-rec="0",PORNSTAR TV
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/12174/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="3213" tvg-logo="http://epg.it999.ru/img2/3213.png" tvg-rec="0",POV TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/12175/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="4983" tvg-logo="http://epg.it999.ru/img2/4983.png" tvg-rec="0",ROUGH TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/12176/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="3220" tvg-logo="http://epg.it999.ru/img2/3220.png" tvg-rec="0",RUSSIAN TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/12177/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="7750" tvg-logo="http://epg.it999.ru/img2/7750.png" tvg-rec="0",Ass Parade
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/12178/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="3226" tvg-logo="http://epg.it999.ru/img2/3226.png" tvg-rec="0",THREESOME TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/12180/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="7751" tvg-logo="http://epg.it999.ru/img2/7751.png" tvg-rec="0",Anal Time
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/12181/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="7752" tvg-logo="http://epg.it999.ru/img2/7752.png" tvg-rec="0",Anal Teen Angels
@@ -3035,8 +2942,3 @@ http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/20090/index.m3u8
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/18053/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3133" tvg-logo="http://epg.it999.ru/img2/3133.png" tvg-rec="0",21 Sextury
 http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/12205/index.m3u8
-
-#EXTINF:0 group-title="Религиозные" tvg-id="1732" tvg-logo="http://epg.it999.ru/img2/1732.png" tvg-rec="3",Надежда
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/2153/index.m3u8
-#EXTINF:0 group-title="Религиозные" tvg-rec="3",Life TV
-http://6rlnsawt.tvclub.xyz/iptv/N6RW2X3HSTZFDP/971/index.m3u8
